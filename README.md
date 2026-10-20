@@ -21,11 +21,17 @@ A ride-hailing company wants to monitor how well its service performs and when d
 - Understand customer satisfaction through rating distribution.
 - Let users filter the report by day, fare type, ride status, and date.
 
+
+## 📂 Repository Structure
+
+```text
 Ride_Hailing_Analytics_PowerBI/
 ├── ride_hailing_project.pbix
 ├── images/
-│   └── 01-ride-hailing-report.png
+│   └── 🚖 Ride Hailing Analytics Project  Power BI.PNG
 └── README.md
+```
+
 
 ## 📊 Report Features
 
